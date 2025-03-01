@@ -21,4 +21,4 @@ chmod 744 server-stats.sh
 ./server-stats.sh
 ```
 
-[This project](https://roadmap.sh/projects/server-stat) is thanks to roadmap.sh [DevOps projects](https://roadmap.sh/devops/projects).
+[This project](https://roadmap.sh/projects/server-stats) is thanks to roadmap.sh [DevOps projects](https://roadmap.sh/devops/projects).
