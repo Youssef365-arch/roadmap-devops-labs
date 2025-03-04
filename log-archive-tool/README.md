@@ -7,7 +7,7 @@ git clone https://github.com/Youssef365-arch/roadmap-devops-labs.git
 cd log-archive-tool
 ```
 
-# 2.
+# 2. Ensure the Script File is Executable
 ```
 chmod +x log-archive.sh
 ```
